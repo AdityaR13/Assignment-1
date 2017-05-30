@@ -1,5 +1,6 @@
 # aditya  
-Managing employee retention
+How to keep employees stay 
+
 Using R, read the data into a data frame called store
 
 Three very important variables in this analysis are the store Profit, the management tenure (MTenure) and the crew tenure (CTenure) 
