@@ -24,6 +24,7 @@ Use R to construct the following Corrgram based on all variables in the dataset
 Run a Pearson's Correlation test on the correlation between Profit and MTenure. What is the p-value?
 Run a Pearson's Correlation test on the correlation between Profit and CTenure. What is the p-value?
 
+Run a regression of Profit on {MTenure, CTenure Comp, Pop, PedCount, Res, Hours24, Visibility}
 
 List the explanatory variable(s) whose beta-coefficients are statistically significant (p < 0.05)
 List the explanatory variable(s) whose beta-coefficients are not statistically significant (p > 0.05)
